@@ -11,3 +11,16 @@ body{
 .btn-color{
     background-color: #E76F51;
 }
+.grayscale{
+    -webkit-filter: grayscale(1);
+    filter: grayscale(1);
+}
+.p-color{
+    color: #E76F51;
+}
+.icons{
+    color: #E76F51;
+}
+.client-name-color{
+    color: #23A6F0;
+}
