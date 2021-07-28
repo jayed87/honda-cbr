@@ -1,0 +1,13 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.banner{
+    background-color: #264653;
+}
+.banner p{
+    color: #E0E0E0;
+    font-weight: 300;
+}
+.btn-color{
+    background-color: #E76F51;
+}
